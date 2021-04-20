@@ -12,31 +12,31 @@ Visit [SQL-ZOO website](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 **Tutorials:**
 
-- [0 SELECT basics](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial00.sql)
+- [0 SELECT basics](https://github.com/mrigorir/)
    
-- [1 SELECT name](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial01.sql)
+- [1 SELECT name](https://github.com/mrigorir/)
    
-- [2 SELECT from World](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial02.sql)
+- [2 SELECT from World](https://github.com/mrigorir/)
   
-- [3 SELECT from Nobel](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial03.sql)
+- [3 SELECT from Nobel](https://github.com/mrigorir/)
    
-- [4 SELECT within SELECT](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial04.sql)
+- [4 SELECT within SELECT](https://github.com/mrigorir/)
  
-- [5 SUM and COUNT](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial05.sql)
+- [5 SUM and COUNT](https://github.com/mrigorir/)
   
-- [6 JOIN](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial06.sql)
+- [6 JOIN](https://github.com/mrigorir/)
   
-- [7 More JOIN operations](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial07.sql)
+- [7 More JOIN operations](https://github.com/mrigorir/)
    
-- [8 Using Null](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial08%2B.sql)
+- [8 Using Null](https://github.com/mrigorir/)
    
-- [8+ Numeric Examples](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial08.sql)
+- [8+ Numeric Examples](https://github.com/mrigorir/)
    
-- [9- Window function](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial09%2B%2B.sql)
+- [9- Window function](https://github.com/mrigorir/)
     
-- [9+ COVID 19](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial09%2B.sql)
+- [9+ COVID 19](https://github.com/mrigorir/)
     
-- [9 Self join](https://github.com/Emmyn5600/SQLZOO-Database/blob/development/tutorial09.sql)
+- [9 Self join](https://github.com/mrigorir/)
    
 
 ## `Getting Started`

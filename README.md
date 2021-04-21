@@ -16,7 +16,7 @@ Visit [SQL-ZOO website](https://sqlzoo.net/wiki/SQL_Tutorial)
    
 - [1 SELECT from World](https://github.com/mrigorir/SQLZoo/blob/master/1_select_from_world.sql)
    
-- [2 SELECT from Nobel](hhttps://github.com/mrigorir/SQLZoo/blob/master/2_select_from_nobel.sql)
+- [2 SELECT from Nobel](https://github.com/mrigorir/SQLZoo/blob/master/2_select_from_nobel.sql)
    
 - [3 SELECT within SELECT](https://github.com/mrigorir/SQLZoo/blob/master/3_select_with_select.sql)
  
@@ -51,7 +51,7 @@ Please Note that you must have Git installed on your PC, this can be done [here]
 
 - GitHub: [github](https://github.com/mrigorir)
 - Twitter: [twitter](https://twitter.com/marcoparra311)
-- LinkedIn: [LinkedIn](https://linkedin.com/marco-parra-leal)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-alonso-parra/)
 
 
 ## 🤝 Contributing

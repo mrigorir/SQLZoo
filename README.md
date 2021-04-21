@@ -12,31 +12,23 @@ Visit [SQL-ZOO website](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 **Tutorials:**
 
-- [0 SELECT basics](https://github.com/mrigorir/)
+- [0 SELECT basics](https://github.com/mrigorir/SQLZoo/blob/master/0_select_basics.sql)
    
-- [1 SELECT name](https://github.com/mrigorir/)
+- [1 SELECT from World](https://github.com/mrigorir/SQLZoo/blob/master/1_select_from_world.sql)
    
-- [2 SELECT from World](https://github.com/mrigorir/)
-  
-- [3 SELECT from Nobel](https://github.com/mrigorir/)
+- [2 SELECT from Nobel](hhttps://github.com/mrigorir/SQLZoo/blob/master/2_select_from_nobel.sql)
    
-- [4 SELECT within SELECT](https://github.com/mrigorir/)
+- [3 SELECT within SELECT](https://github.com/mrigorir/SQLZoo/blob/master/3_select_with_select.sql)
  
-- [5 SUM and COUNT](https://github.com/mrigorir/)
+- [4 SUM and COUNT](https://github.com/mrigorir/SQLZoo/blob/master/4_sum_count.sql)
   
-- [6 JOIN](https://github.com/mrigorir/)
+- [5 JOIN](https://github.com/mrigorir/SQLZoo/blob/master/5_join.sql)
   
-- [7 More JOIN operations](https://github.com/mrigorir/)
+- [6 More JOIN operations](https://github.com/mrigorir/SQLZoo/blob/master/6_more_join.sql)
    
-- [8 Using Null](https://github.com/mrigorir/)
-   
-- [8+ Numeric Examples](https://github.com/mrigorir/)
-   
-- [9- Window function](https://github.com/mrigorir/)
-    
-- [9+ COVID 19](https://github.com/mrigorir/)
-    
-- [9 Self join](https://github.com/mrigorir/)
+- [7 Using Null](https://github.com/mrigorir/SQLZoo/blob/master/7_using_null.sql)
+     
+- [8 Self join](https://github.com/mrigorir/SQLZoo/blob/master/8_self_join.sql)
    
 
 ## `Getting Started`
@@ -59,7 +51,7 @@ Please Note that you must have Git installed on your PC, this can be done [here]
 
 - GitHub: [github](https://github.com/mrigorir)
 - Twitter: [twitter](https://twitter.com/marcoparra311)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/marco-parra-leal)
 
 
 ## 🤝 Contributing
